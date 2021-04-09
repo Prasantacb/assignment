@@ -1,3 +1,4 @@
+//  https://github.com/Prasantacb/assignment
 // 01 kilometerToMeter
 function kilometerToMeter(kilometer){
     var meter = 1000;
@@ -46,7 +47,7 @@ function hotelCost(hotelNight){
 }
 let totalCost = hotelCost(25);
 
-// 04 ferndsName.. Actually, I am confused about this question
+// 04 ferndsName
     var ferndsName = ['jibo', 'PrasantaCb', 'rakib', 'raju', 'JibonRoy'];
     var max = ferndsName[0];
         for(var i = 0; i < ferndsName.length; i++){
